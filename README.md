@@ -10,9 +10,9 @@
 - 📚 **Learning Curve:** Actively learning and preparing for the **AWS Developer Associate certification.**
 
 #### 📫 How to Reach Me
-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)]([https://twitter.com/abhi245y])
-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)]([https://www.reddit.com/user/abhi245y])
-
+- 🐦 Twitter: [@abhi245y](https://twitter.com/abhi245y)
+- 🎮 Reddit: [@abhi245y](https://www.reddit.com/user/abhi245y)
+  
 #### 🔍 Explore My Work
 - 📁 [My Repositories](https://github.com/abhi245y?tab=repositories): Dive into my projects, ranging from initial apps to current advanced scripts.
 - 🌟 [Starred Projects](https://github.com/abhi245y?tab=stars): Check out the projects that inspire me.
