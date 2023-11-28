@@ -18,4 +18,4 @@
 - 🌟 [Starred Projects](https://github.com/abhi245y?tab=stars): Check out the projects that inspire me.
 
 #### 📈 My GitHub Stats
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi245y&show_icons=true&theme=radical)
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi245y&rank_icon=github&show_icons=true&theme=radical)
