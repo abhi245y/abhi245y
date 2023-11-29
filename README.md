@@ -2,7 +2,7 @@
 ### 👋 Hi there, I'm [Abhi](https://github.com/abhi245y)!
 
 #### 🚀 About Me
-- 🌱 **Self-Taught Programmer:** Passionate about coding, I've honed my skills in **Python, HTML, CSS, and JavaScript.**
+- 🌱 **Self-Taught Programmer:** Passionate about coding, I've honed my skills in **Python, HTML, CSS, JavaScript and Android.**
 - 📱 **Starting Point:** My coding journey began with a college project - an **Android app for public bus tracking, planning, and scheduling.**
 - 🎥 **Exploring Possibilities:** From there, I ventured into app development, creating a platform for movie enthusiasts by scraping links, followed by an anime-watching app.
 - 💡 **Technical Stack:** The anime app featured a **Python Flask server hosted on Heroku** and leveraged **Cloud Firestore** for user data management.
