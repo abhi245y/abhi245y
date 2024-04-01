@@ -12,7 +12,7 @@
 #### 📫 How to Reach Me
 - 🐦 Twitter: [@abhi245y](https://twitter.com/abhi245y)
 - 🎮 Reddit: [@abhi245y](https://www.reddit.com/user/abhi245y)
-- 📧 Email: [@abhi245y](admin@arlp.live)
+- 📧 Email: admin@arlp.live
   
 #### 🔍 Explore My Work
 - 📁 [My Repositories](https://github.com/abhi245y?tab=repositories): Dive into my projects, ranging from initial apps to current advanced scripts.
